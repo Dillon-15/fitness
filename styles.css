@@ -1,7 +1,9 @@
 
 h1 {
-    color: rgb(17, 233, 179);
-    border: rgb(236, 5, 132);
+    color: rgba(201, 148, 131, 0.842);
+    border: dotted rgb(170, 170, 218);
+    padding: 10px;
+    text-align: center;
 }
     
 *{
@@ -10,5 +12,24 @@ h1 {
 }
 
 body{
-    background-color: blue;
+    background-color: rgb(34, 71, 151);
+}
+
+p {
+    color: cornsilk;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+h2 {
+    color: darkgoldenrod;
+    padding-top: 5px;
+    padding-left: 5px;
+    text-align: center;
+}
+
+img {
+    padding-left: 770px;
+    align-items: center;
 }
