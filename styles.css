@@ -1,26 +1,26 @@
-
-h1 {
-    color: rgba(201, 148, 131, 0.842);
-    border: dotted rgb(170, 170, 218);
-    padding: 10px;
-    text-align: center;
-}
-    
 *{
     padding: 0px;
     margin: 0px;
 }
 
+h1 {
+    color: rgba(255, 255, 255, 0.842);
+    border: double rgb(115, 115, 115) 2px;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+    
 body{
-    background-color: blue;
+    background-color: grey;
 }
 nav{
     height: 75px;
-    background-color: rgb(34, 71, 151);
+    background-color: rgb(33, 33, 33);
 }
 
 p {
-    color: cornsilk;
+    color: rgb(255, 255, 255);
     font-size: 20px;
     text-align: center;
 
