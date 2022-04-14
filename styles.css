@@ -27,13 +27,19 @@ p {
 }
 
 h2 {
-    color: darkgoldenrod;
+    color: rgb(255, 255, 255);
     padding-top: 5px;
     padding-left: 5px;
     text-align: center;
 }
-
-img {
-    padding-left: 770px;
-    align-items: center;
+h3{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+a{
+    color:black;
+    font-size: 25px;
+}
+.color{
+    color: black;
 }
